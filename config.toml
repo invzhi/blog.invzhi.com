@@ -1,4 +1,4 @@
-baseURL = "https:/invzhi.blog"
+baseURL = "http://invzhi.netlify.com/"
 languageCode = "en-us"
 title = "invzhi"
 theme = "hyde"
