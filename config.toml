@@ -1,0 +1,23 @@
+baseURL = "https:/invzhi.blog"
+languageCode = "en-us"
+title = "invzhi"
+theme = "hyde"
+hasCJKLanguage = true
+enableRobotsTXT = true
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    name = "Articles"
+    url = "/articles/"
+  [[menu.main]]
+    name = "Books"
+    url = "/books/"
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+
+[params]
+  description = "know your game."
