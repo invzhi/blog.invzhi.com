@@ -4,20 +4,14 @@ title = "invzhi"
 theme = "hyde"
 hasCJKLanguage = true
 enableRobotsTXT = true
+sectionPagesMenu = "main"
+
+[author]
+  name = "invzhi"
+  email = "invzhi@protonmail.com"
 
 [taxonomies]
   tag = "tags"
-
-[menu]
-  [[menu.main]]
-    name = "Articles"
-    url = "/articles/"
-  [[menu.main]]
-    name = "Books"
-    url = "/books/"
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
 
 [params]
   description = "know your game."
