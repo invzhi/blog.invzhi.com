@@ -1,4 +1,4 @@
-baseURL = "https://invzhi.blog/"
+baseURL = "https://blog.invzhi.com/"
 languageCode = "en-us"
 title = "invzhi"
 theme = "hyde"
