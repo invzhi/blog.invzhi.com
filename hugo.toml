@@ -1,7 +1,8 @@
-baseURL = "https://blog.invzhi.com/"
-languageCode = "en-us"
 title = "invzhi"
 theme = "hyde"
+baseURL = "https://blog.invzhi.com/"
+languageCode = "zh-CN"
+defaultContentLanguage = "zh"
 hasCJKLanguage = true
 enableRobotsTXT = true
 sectionPagesMenu = "main"
